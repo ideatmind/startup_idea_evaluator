@@ -17,11 +17,6 @@ A Flutter mobile app where users can submit startup ideas, get AI feedback, vote
 - **Supabase** - Backend & database
 - **Provider** - State management
 
-## Installation
-
-### Prerequisites
-- Flutter SDK (>= 3.0.0)
-- Git
 
 ### Setup
 
