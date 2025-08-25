@@ -1,16 +1,67 @@
-# startup_idea_evaluator
+# Startup Idea Evaluator
 
-A new Flutter project.
+A Flutter mobile app where users can submit startup ideas, get AI feedback, vote on others' ideas, and see trending concepts on a leaderboard.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+- Submit startup ideas with AI ratings (0-100)
+- Vote on ideas (one vote per user)
+- Real-time leaderboard of top ideas
+- Light/dark theme toggle
+- Responsive design for all screen sizes
 
-A few resources to get you started if this is your first Flutter project:
+## Tech Stack
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- **Flutter** - Cross-platform mobile framework
+- **Dart** - Programming language
+- **Supabase** - Backend & database
+- **Provider** - State management
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Installation
+
+### Prerequisites
+- Flutter SDK (>= 3.0.0)
+- Git
+
+### Setup
+
+1. **Clone the repo**
+   https://github.com/ideatmind/startup_idea_evaluator
+
+2. **Install dependencies**
+
+3. **Run the app**
+
+
+## 📦 Build APK
+
+
+APK location: `build/app/outputs/flutter-apk/`
+
+## 🎯 Key Features Implemented
+
+- [x] User authentication
+- [x] Idea submission with AI ratings
+- [x] Real-time voting system
+- [x] Interactive leaderboard
+- [x] Dark/light theme toggle
+- [x] Responsive design
+
+## 📱 How to Use
+
+1. **Sign up/Login** with email and password
+2. **Submit Ideas** - Add your startup concept
+3. **Vote** on ideas you like (one vote per idea)
+4. **Check Leaderboard** for trending ideas
+5. **Toggle Theme** using the app bar button
+
+---
+
+**Built with ❤️ using Flutter & Supabase**
+
+
+
+
+
+
+
